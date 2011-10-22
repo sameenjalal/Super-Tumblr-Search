@@ -1,0 +1,874 @@
+stdClass Object
+(
+    [meta] => stdClass Object
+        (
+            [status] => 200
+            [msg] => OK
+        )
+
+    [response] => stdClass Object
+        (
+            [blog] => stdClass Object
+                (
+                    [title] => The Cookie Jar
+                    [posts] => 322
+                    [name] => grardb
+                    [url] => http://grardb.tumblr.com/
+                    [updated] => 1316231950
+                    [description] => The name's Gerard.  I'm a 20-year-old student at Rutgers University.  I love writing, so I made a Tumblr account to write about random things that are on my mind.
+                    [ask] => 1
+                    [ask_anon] => 
+                    [likes] => 103
+                )
+
+            [posts] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 10303626984
+                            [post_url] => http://grardb.tumblr.com/post/10303626984/fitting-in
+                            [type] => text
+                            [date] => 2011-09-17 03:59:00 GMT
+                            [timestamp] => 1316231940
+                            [format] => html
+                            [reblog_key] => dIMdOlxI
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [title] => Fitting In
+                            [body] => <p>Growing up, I never really fit in. I was a nerd in a world of douche bags.</p>
+<p>Now that I&#8217;m almost &#8220;grown up,&#8221; I still don&#8217;t really fit in. I&#8217;m a nerd who looks like a douche bag in a world of nerds who look like nerds.</p>
+<p>Today, I found out that I <em>really</em> don&#8217;t fit in x_x</p>
+<p>Alexis tells me I should keep trying, so that&#8217;s what I&#8217;m gonna do!</p>
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 10064853233
+                            [post_url] => http://grardb.tumblr.com/post/10064853233/on-tumblr-kirbi-really
+                            [type] => photo
+                            [date] => 2011-09-11 02:55:54 GMT
+                            [timestamp] => 1315709754
+                            [format] => html
+                            [reblog_key] => y7zDM9xZ
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [caption] => <p>On Tumblr, Kirbi? Really?</p>
+                            [photos] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [caption] => 
+                                            [alt_sizes] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [width] => 500
+                                                            [height] => 77
+                                                            [url] => http://27.media.tumblr.com/tumblr_lrc8562u3F1qbbgjto1_500.png
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [width] => 400
+                                                            [height] => 62
+                                                            [url] => http://27.media.tumblr.com/tumblr_lrc8562u3F1qbbgjto1_400.png
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [width] => 250
+                                                            [height] => 39
+                                                            [url] => http://29.media.tumblr.com/tumblr_lrc8562u3F1qbbgjto1_250.png
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [width] => 100
+                                                            [height] => 15
+                                                            [url] => http://28.media.tumblr.com/tumblr_lrc8562u3F1qbbgjto1_100.png
+                                                        )
+
+                                                    [4] => stdClass Object
+                                                        (
+                                                            [width] => 75
+                                                            [height] => 75
+                                                            [url] => http://30.media.tumblr.com/tumblr_lrc8562u3F1qbbgjto1_75sq.png
+                                                        )
+
+                                                )
+
+                                            [original_size] => stdClass Object
+                                                (
+                                                    [width] => 647
+                                                    [height] => 100
+                                                    [url] => http://www.tumblr.com/photo/1280/10064853233/1/tumblr_lrc8562u3F1qbbgjt
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 10036347974
+                            [post_url] => http://grardb.tumblr.com/post/10036347974/this-has-to-be-a-joke-i-cant-even-stress-how
+                            [type] => photo
+                            [date] => 2011-09-10 15:02:19 GMT
+                            [timestamp] => 1315666939
+                            [format] => html
+                            [reblog_key] => HFpthp0w
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 2
+                            [caption] => <p>This <em>has</em> to be a joke&#8230;</p>
+<p>I can&#8217;t even stress how much of a joke this has to be.</p>
+<p>Such remarkable stupidity.</p>
+<p>Someone please prevent me from going insane.</p>
+                            [photos] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [caption] => 
+                                            [alt_sizes] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [width] => 1280
+                                                            [height] => 960
+                                                            [url] => http://www.tumblr.com/photo/1280/10036347974/1/tumblr_lrbb3wsYmH1qbbgjt
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [width] => 500
+                                                            [height] => 375
+                                                            [url] => http://30.media.tumblr.com/tumblr_lrbb3wsYmH1qbbgjto1_500.jpg
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [width] => 400
+                                                            [height] => 300
+                                                            [url] => http://26.media.tumblr.com/tumblr_lrbb3wsYmH1qbbgjto1_400.jpg
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [width] => 250
+                                                            [height] => 188
+                                                            [url] => http://26.media.tumblr.com/tumblr_lrbb3wsYmH1qbbgjto1_250.jpg
+                                                        )
+
+                                                    [4] => stdClass Object
+                                                        (
+                                                            [width] => 100
+                                                            [height] => 75
+                                                            [url] => http://25.media.tumblr.com/tumblr_lrbb3wsYmH1qbbgjto1_100.jpg
+                                                        )
+
+                                                    [5] => stdClass Object
+                                                        (
+                                                            [width] => 75
+                                                            [height] => 75
+                                                            [url] => http://27.media.tumblr.com/tumblr_lrbb3wsYmH1qbbgjto1_75sq.jpg
+                                                        )
+
+                                                )
+
+                                            [original_size] => stdClass Object
+                                                (
+                                                    [width] => 2560
+                                                    [height] => 1920
+                                                    [url] => http://www.tumblr.com/photo/1280/10036347974/1/tumblr_lrbb3wsYmH1qbbgjt
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 10017351407
+                            [post_url] => http://grardb.tumblr.com/post/10017351407/whenever-you-need-me-whenever-want-me-you-know
+                            [type] => text
+                            [date] => 2011-09-10 01:38:32 GMT
+                            [timestamp] => 1315618712
+                            [format] => html
+                            [reblog_key] => 15UOsK40
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [title] => 
+                            [body] => <p>♪<em> Whenever you need me</em></p>
+<p><em>Whenever want me</em></p>
+<p><em>You know you can call me</em></p>
+<p><em>I’ll be there shortly</em></p>
+<p><strong><em>Don’t care what your friends say, &#8216;cause they don&#8217;t know me</em></strong></p>
+<p><em>I can be your best friend, and you be my homie </em>♪</p>
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9946306800
+                            [post_url] => http://grardb.tumblr.com/post/9946306800/they-call-me-the-vegetarian
+                            [type] => photo
+                            [date] => 2011-09-08 03:33:19 GMT
+                            [timestamp] => 1315452799
+                            [format] => html
+                            [reblog_key] => t4t5dmKm
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [caption] => <p>They call me the vegetarian.</p>
+                            [photos] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [caption] => 
+                                            [alt_sizes] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [width] => 1280
+                                                            [height] => 960
+                                                            [url] => http://www.tumblr.com/photo/1280/9946306800/1/tumblr_lr6pvjePfO1qbbgjt
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [width] => 500
+                                                            [height] => 375
+                                                            [url] => http://24.media.tumblr.com/tumblr_lr6pvjePfO1qbbgjto1_500.jpg
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [width] => 400
+                                                            [height] => 300
+                                                            [url] => http://24.media.tumblr.com/tumblr_lr6pvjePfO1qbbgjto1_400.jpg
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [width] => 250
+                                                            [height] => 188
+                                                            [url] => http://24.media.tumblr.com/tumblr_lr6pvjePfO1qbbgjto1_250.jpg
+                                                        )
+
+                                                    [4] => stdClass Object
+                                                        (
+                                                            [width] => 100
+                                                            [height] => 75
+                                                            [url] => http://28.media.tumblr.com/tumblr_lr6pvjePfO1qbbgjto1_100.jpg
+                                                        )
+
+                                                    [5] => stdClass Object
+                                                        (
+                                                            [width] => 75
+                                                            [height] => 75
+                                                            [url] => http://30.media.tumblr.com/tumblr_lr6pvjePfO1qbbgjto1_75sq.jpg
+                                                        )
+
+                                                )
+
+                                            [original_size] => stdClass Object
+                                                (
+                                                    [width] => 2560
+                                                    [height] => 1920
+                                                    [url] => http://www.tumblr.com/photo/1280/9946306800/1/tumblr_lr6pvjePfO1qbbgjt
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9818344845
+                            [post_url] => http://grardb.tumblr.com/post/9818344845/stupidity
+                            [type] => photo
+                            [date] => 2011-09-05 02:54:07 GMT
+                            [timestamp] => 1315191247
+                            [format] => html
+                            [reblog_key] => kZDo5PeW
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 0
+                            [caption] => <p>Stupidity.</p>
+                            [photos] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [caption] => 
+                                            [alt_sizes] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [width] => 1280
+                                                            [height] => 960
+                                                            [url] => http://www.tumblr.com/photo/1280/9818344845/1/tumblr_lr1427teyU1qbbgjt
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [width] => 500
+                                                            [height] => 375
+                                                            [url] => http://30.media.tumblr.com/tumblr_lr1427teyU1qbbgjto1_500.jpg
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [width] => 400
+                                                            [height] => 300
+                                                            [url] => http://28.media.tumblr.com/tumblr_lr1427teyU1qbbgjto1_400.jpg
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [width] => 250
+                                                            [height] => 188
+                                                            [url] => http://28.media.tumblr.com/tumblr_lr1427teyU1qbbgjto1_250.jpg
+                                                        )
+
+                                                    [4] => stdClass Object
+                                                        (
+                                                            [width] => 100
+                                                            [height] => 75
+                                                            [url] => http://30.media.tumblr.com/tumblr_lr1427teyU1qbbgjto1_100.jpg
+                                                        )
+
+                                                    [5] => stdClass Object
+                                                        (
+                                                            [width] => 75
+                                                            [height] => 75
+                                                            [url] => http://26.media.tumblr.com/tumblr_lr1427teyU1qbbgjto1_75sq.jpg
+                                                        )
+
+                                                )
+
+                                            [original_size] => stdClass Object
+                                                (
+                                                    [width] => 2560
+                                                    [height] => 1920
+                                                    [url] => http://www.tumblr.com/photo/1280/9818344845/1/tumblr_lr1427teyU1qbbgjt
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9747498447
+                            [post_url] => http://grardb.tumblr.com/post/9747498447/why-it-sucks-to-be-white-we-smell-bad
+                            [type] => chat
+                            [date] => 2011-09-03 15:06:00 GMT
+                            [timestamp] => 1315062360
+                            [format] => html
+                            [reblog_key] => SQjjRPRs
+                            [tags] => Array
+                                (
+                                    [0] => WISTBW
+                                )
+
+                            [note_count] => 1
+                            [title] => Why It Sucks to Be White: We Smell Bad
+                            [body] => Andre: You're really going to shower, dude?
+Me: Yeah, I smell like hell.
+Andre: I probably smell worse.
+Me: No, trust me.
+Andre: Dude, I smell like beer and sweat.
+Me: I'm a white person.
+Andre: Yeah, true...
+                            [dialogue] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => Andre
+                                            [label] => Andre:
+                                            [phrase] => You're really going to shower, dude?
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [name] => Me
+                                            [label] => Me:
+                                            [phrase] => Yeah, I smell like hell.
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [name] => Andre
+                                            [label] => Andre:
+                                            [phrase] => I probably smell worse.
+                                        )
+
+                                    [3] => stdClass Object
+                                        (
+                                            [name] => Me
+                                            [label] => Me:
+                                            [phrase] => No, trust me.
+                                        )
+
+                                    [4] => stdClass Object
+                                        (
+                                            [name] => Andre
+                                            [label] => Andre:
+                                            [phrase] => Dude, I smell like beer and sweat.
+                                        )
+
+                                    [5] => stdClass Object
+                                        (
+                                            [name] => Me
+                                            [label] => Me:
+                                            [phrase] => I'm a white person.
+                                        )
+
+                                    [6] => stdClass Object
+                                        (
+                                            [name] => Andre
+                                            [label] => Andre:
+                                            [phrase] => Yeah, true...
+                                        )
+
+                                )
+
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9695229098
+                            [post_url] => http://grardb.tumblr.com/post/9695229098/there-comes-a-time-in-your-life-when-you-have-to
+                            [type] => quote
+                            [date] => 2011-09-02 04:14:03 GMT
+                            [timestamp] => 1314936843
+                            [format] => html
+                            [reblog_key] => 0Xds44NO
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [text] => There comes a time in your life when you have to let go of all the pointless drama and the people who create it and surround yourself with people who make you laugh so hard that you forget the bad and focus solely on the good. After all, life is too short to be anything but happy.
+                            [source] => Karl Marx
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9648987966
+                            [post_url] => http://grardb.tumblr.com/post/9648987966/august-2011-goals
+                            [type] => text
+                            [date] => 2011-09-01 01:13:00 GMT
+                            [timestamp] => 1314839580
+                            [format] => html
+                            [reblog_key] => LmBckDbV
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 0
+                            [title] => August 2011 Goals
+                            [body] => <p><a title="Summer 2011 Goals" target="_blank" href="http://grardb.tumblr.com/post/5025343930/these-are-my-goals-for-the-summer-of-2011-wish-me">My goals</a> for August were:</p>
+<ul><li>Get abs back</li>
+<li>Make money</li>
+<li>Learn Scheme</li>
+<li>Learn shell programming</li>
+</ul><p>During August, I was extremely occupied with my two jobs, so my only accomplished goal was making money. I spent the rest of my time watching TV or iChatting (hey, Joanna :P).</p>
+<p>Not the most productive month, but it was good to have a break from academia after everything I taught myself and worked on in the prior months.</p>
+<p>For anyone who cares, this was my summer reading list:</p>
+<ol><li>Head First PHP &amp; MySQL</li>
+<li>Head First JavaScript</li>
+<li>JavaScript: The Good Parts</li>
+<li>The Hunger Games (Hey, Joanna! :P)</li>
+<li>The Art of SEO</li>
+<li>Beginning C++ Through Game Programming</li>
+<li>Absolute C++</li>
+<li>Invent Your Own Computer Games with Python</li>
+</ol><p>I&#8217;m currently reading Catching Fire (hey, Joanna! :P), which I&#8217;m hoping to finish soon.</p>
+<p>Also, my shoulder is still in pain. I&#8217;ve been slacking on my physical therapy x_x</p>
+<p>Good night, Tumblr.</p>
+                        )
+
+                    [9] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9610224966
+                            [post_url] => http://grardb.tumblr.com/post/9610224966/heyhach-i-swear-that-when-our-lips-touch-i-can
+                            [type] => video
+                            [date] => 2011-08-31 01:38:06 GMT
+                            [timestamp] => 1314754686
+                            [format] => html
+                            [reblog_key] => tRUkOHtQ
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 24
+                            [source_url] => http://mmdeeecho.tumblr.com/post/4512137347
+                            [source_title] => mmdeeecho
+                            [caption] => <p><a href="http://heyhach.tumblr.com/post/9576637028">heyhach</a>:</p>
+<blockquote>
+<p><em>I swear that when our lips touch, I can taste the next sixty years of my life.</em></p>
+</blockquote>
+<p>This is awesome.</p>
+                            [thumbnail_url] => http://img.youtube.com/vi/MR1_2lFXJI4/hqdefault.jpg
+                            [thumbnail_width] => 480
+                            [thumbnail_height] => 360
+                            [player] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [width] => 250
+                                            [embed_code] => <object width="248" height="173"><param name="movie" value="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="248" height="173" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [width] => 400
+                                            [embed_code] => <object width="400" height="257"><param name="movie" value="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="400" height="257" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [width] => 500
+                                            [embed_code] => <object width="500" height="312"><param name="movie" value="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/MR1_2lFXJI4&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="500" height="312" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                )
+
+                        )
+
+                    [10] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9602768484
+                            [post_url] => http://grardb.tumblr.com/post/9602768484/random-fact-how-i-shave
+                            [type] => text
+                            [date] => 2011-08-30 22:46:17 GMT
+                            [timestamp] => 1314744377
+                            [format] => html
+                            [reblog_key] => 0BKjohBq
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 0
+                            [title] => Random Fact: How I Shave
+                            [body] => <p>I <a target="_blank" href="http://grardb.tumblr.com/post/1159759118/why-it-sucks-to-be-white-were-hairy">shave</a> with a <a title="Straight razor" target="_blank" href="http://en.wikipedia.org/wiki/Straight_razor">straight razor</a> and hot water. No shaving cream.</p>
+<p>Get at me.</p>
+                        )
+
+                    [11] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9530252214
+                            [post_url] => http://grardb.tumblr.com/post/9530252214/cuz-ive-been-thinking-bout-you-lately-maybe
+                            [type] => video
+                            [date] => 2011-08-29 02:42:00 GMT
+                            [timestamp] => 1314585720
+                            [format] => html
+                            [reblog_key] => eQfZTSmz
+                            [tags] => Array
+                                (
+                                )
+
+                            [caption] => <p><em>♪ &#8216;Cuz I&#8217;ve been thinking &#8216;bout you lately</em></p>
+<p><em>Maybe you can save me </em></p>
+<p><em>From this crazy</em></p>
+<p><em>World we live in</em></p>
+<p><strong><em>And I know we could happen</em></strong></p>
+<p><em>&#8216;Cuz you know </em><em>that I&#8217;ve been feeling you</em></p>
+<p><em><strong>I know you want me too</strong> ♪</em></p>
+<p>Great song. Thanks, Kirbi.</p>
+                            [thumbnail_url] => http://img.youtube.com/vi/zgselUm89YA/hqdefault.jpg
+                            [thumbnail_width] => 480
+                            [thumbnail_height] => 360
+                            [player] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [width] => 250
+                                            [embed_code] => <object width="248" height="156"><param name="movie" value="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="248" height="156" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [width] => 400
+                                            [embed_code] => <object width="400" height="231"><param name="movie" value="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="400" height="231" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                    [2] => stdClass Object
+                                        (
+                                            [width] => 500
+                                            [embed_code] => <object width="500" height="279"><param name="movie" value="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/zgselUm89YA&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1" type="application/x-shockwave-flash" width="500" height="279" allowFullScreen="true" wmode="transparent"></embed></object>
+                                        )
+
+                                )
+
+                        )
+
+                    [12] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9513411907
+                            [post_url] => http://grardb.tumblr.com/post/9513411907/how-to-have-a-bad-day
+                            [type] => text
+                            [date] => 2011-08-28 19:59:43 GMT
+                            [timestamp] => 1314561583
+                            [format] => html
+                            [reblog_key] => pmFUkCku
+                            [tags] => Array
+                                (
+                                )
+
+                            [title] => How to Have a Bad Day
+                            [body] => <p><ol><li>Plan out a perfect day.</li>
+<li>Prepare yourself and everyone else for that day.</li>
+<li>Do everything that you need to do to make that day perfect.</li>
+<li>Watch everything fall apart.</li>
+</ol></p>
+                        )
+
+                    [13] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9444338231
+                            [post_url] => http://grardb.tumblr.com/post/9444338231/most-people-would-rather-be-certain-theyre
+                            [type] => quote
+                            [date] => 2011-08-27 04:47:47 GMT
+                            [timestamp] => 1314420467
+                            [format] => html
+                            [reblog_key] => R1WgORIe
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [text] => Most people would rather be certain they&#8217;re miserable, than risk being happy.
+                            [source] => Robert Anthony
+                        )
+
+                    [14] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9441213077
+                            [post_url] => http://grardb.tumblr.com/post/9441213077/my-idols
+                            [type] => text
+                            [date] => 2011-08-27 03:23:06 GMT
+                            [timestamp] => 1314415386
+                            [format] => html
+                            [reblog_key] => dvKmpEYQ
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 5
+                            [title] => My Idols
+                            [body] => <p><a href="http://smileyahh.tumblr.com/post/9438807032">smileyahh</a>:</p>
+<blockquote>
+<p>My idols aren’t perfect. They all aren’t the usual idols because of some type of bravery or charcter strength, but rather for this specific quality they have in them that I want in myself. Some of them may be superficial, and some may be the typical  definition of what people would think of an ”idol”. Either way, they all played a part in shaping who I am (as cliché as it may sound). For privacy reasons, some will be anonymous.</p>
+<p><br/>Idol 1: A friend’s sister. I might as well get through my most superificial idol first. She was my ideal body I wanted to have, and what I would motivation was when I wanted to lose weight last year. Not soo skinny, and not too big either. Just right.</p>
+<p>Idol 2: @grardb. I’m not gonna lie bro, you are one mothereffing intellectual jigga and your sense of humor is effing hilarious. Your views on things are extremely insightful, and I wish I could be as culturally intellectual as you. I’m kinda sad I didn’t get to talk to you as much during HS &gt;.&lt;.</p>
+<p>Idol 3: @nkcp. I really wish I had your sense of responsibility and down to earth minded-ness and simplicity. I suck at it. Period.</p>
+<p>Idol 4: Chef Kevin Collins. My culinary teacher during my senior year of HS. By being one of the greatest teachers I’ve ever had, and being so ‘I don’t give an eff’ type of attitude with me, he’s the one who convinced me that I do belong in the culinary arts and what doors it could open in my life.</p>
+<p>Idol 5: @nopreshyr. Your motivation and determination really astounds me. If I had to go through what you did, and what you’re doing now, I don’t think I’d be able to handle it. You are really commendable. Keep it up. I’m here if you ever need me.</p>
+<p>Idol 6: My RAPS kuya, @onyourmark. You really motivate me to learn languages just because you can speak French fluently, which was what I wanted to do since the end of eigth grade. It’s still my life goal to learn at least 5 languages.</p>
+<p>Idol 7: I don’t know if you would call her an idol, but she’s definately on my top 10 most influential people in my life, Mrs. Rampersaud. When I transferred to her freshman bio class after I think 3 weeks of HS because I wanted more of a challenge than what my current teacher was giving, she scared the crap out of me. She yelled at me because I didn’t give her the note I had to give from her to Ms. Villaruel back (which I didn’t know I had to do). Ever since then, she’s been a hard ass. She was one of the best teachers I’ve ever had because she taught like we were adults. She wasn’t easy on us because we were freshman. She gave us the most homework, the hardest tests, and always asked us questions on the spot about material just because she could tell we didn’t know it -_-. But because of her, I was taught how to study. I really don’t think I could’ve survived college without what she taught me. So thank you for being such a hard butt.</p>
+<p>Idol 8: My last idols. As typical as it is going to sound, they are my parents. My dad specifically for his oustanding patience and how he never complains about doing something. He just does it even if it is extremely inconvenient for him or he doesn’t want to do it. He never says anything at all. Thank you for teaching the virtue of patience and how pushovers and aggressives don’t come out first. My mom, for what she has endured and what she’s enduring now. I can’t say everything because of privacy, but she really has taught me perseverance in the face of pain and devestation. Thank you for bringing me into life along with daddy.</p>
+<p>Anyways, if you read this, thank you for reading all of my sappyness. I hope you got an insight to a part of what I am =D </p>
+</blockquote>
+<p>Boom, everyone. This is my 100th like. Why?</p>
+<ol><li>It is well-written.</li>
+<li>It has meaning.</li>
+<li>I&#8217;M ONE OF LEA&#8217;S IDOLS! HOLY SH—</li>
+</ol><p>Thanks, Lea :&#8217;) Haha, but it really is a good post.</p>
+<p>And why <em>didn&#8217;t</em> we talk in high school? I don&#8217;t think we ever had class together :/ Oh well, hit me up sometime lol. My computer is basically attached to me, so I&#8217;m always online. Cya!</p>
+                        )
+
+                    [15] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9441087013
+                            [post_url] => http://grardb.tumblr.com/post/9441087013/linkedin
+                            [type] => text
+                            [date] => 2011-08-27 03:19:58 GMT
+                            [timestamp] => 1314415198
+                            [format] => html
+                            [reblog_key] => 8EJYFKAZ
+                            [tags] => Array
+                                (
+                                )
+
+                            [title] => LinkedIn
+                            [body] => <p>I absolutely love how I can see who checks out my profile lmao.</p>
+<p>I see you &gt;:)</p>
+                        )
+
+                    [16] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9383351357
+                            [post_url] => http://grardb.tumblr.com/post/9383351357/the-future-is-scary-but-you-cant-just-run-back
+                            [type] => quote
+                            [date] => 2011-08-25 19:23:00 GMT
+                            [timestamp] => 1314300180
+                            [format] => html
+                            [reblog_key] => wWM3BvCt
+                            [tags] => Array
+                                (
+                                )
+
+                            [text] => The future is scary, but you can’t just run back to the past because it’s familiar. Yes, it’s tempting, but it’s a mistake.
+                            [source] => How I Met Your Mother, S6E24
+                        )
+
+                    [17] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9378462951
+                            [post_url] => http://grardb.tumblr.com/post/9378462951/r-sum
+                            [type] => link
+                            [date] => 2011-08-25 16:46:16 GMT
+                            [timestamp] => 1314290776
+                            [format] => html
+                            [reblog_key] => uCWUpbsG
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 0
+                            [title] => Résumé
+                            [url] => http://bash.org/?414593
+                            [description] => <p>I guess building up my résumé this year was a really bad idea.</p>
+                        )
+
+                    [18] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9373407507
+                            [post_url] => http://grardb.tumblr.com/post/9373407507/youre-a-fucking-idiot-someone-knows-who-this-is
+                            [type] => answer
+                            [date] => 2011-08-25 13:05:00 GMT
+                            [timestamp] => 1314277500
+                            [format] => html
+                            [reblog_key] => rvYZuU3M
+                            [tags] => Array
+                                (
+                                )
+
+                            [note_count] => 1
+                            [asking_name] => anonymous
+                            [asking_url] => 
+                            [question] => &quot;You&#039;re a fucking idiot&quot; - someone knows who this is! In other new, you&#039;re a tool. Get over yourself.
+                            [answer] => <p>I&#8217;m actually extremely confused, and I have no idea what you&#8217;re trying to say. Your first sentence is in quotes&#8230;are you quoting somebody? If so, I don&#8217;t know who.</p>
+<p>After that, you go on to show your lack of proofreading ability by omitting the &#8216;s&#8217; in &#8220;news.&#8221; That&#8217;s quite ironic, assuming that you&#8217;re trying to call me an idiot.</p>
+<p>Anyway, I&#8217;m not sure who this is. I&#8217;ve disabled the option for anonymous users to ask me questions because I&#8217;m not one to get into drama, especially on the internet. If you really have a problem with me, then please contact me elsewhere and refrain from being anonymous.</p>
+<p>We&#8217;re all adults; I&#8217;m sure there&#8217;s a more mature way to resolve whatever issues you have with me. Being tough on the internet isn&#8217;t the way to do it.</p>
+<p>Peace.</p>
+                        )
+
+                    [19] => stdClass Object
+                        (
+                            [blog_name] => grardb
+                            [id] => 9352453540
+                            [post_url] => http://grardb.tumblr.com/post/9352453540/so-i-was-signing-up-for-reddit-and-i-was-faced
+                            [type] => photo
+                            [date] => 2011-08-24 23:34:46 GMT
+                            [timestamp] => 1314228886
+                            [format] => html
+                            [reblog_key] => ypUay1k8
+                            [tags] => Array
+                                (
+                                )
+
+                            [caption] => <p>So&#8230;I was signing up for Reddit, and I was faced the most offensive CAPTCHA I&#8217;ve ever seen.</p>
+<p>NJSUXW?</p>
+<p>NJ SUCKS!?</p>
+<p>Come at me, Reddit.</p>
+                            [photos] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [caption] => 
+                                            [alt_sizes] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [width] => 400
+                                                            [height] => 414
+                                                            [url] => http://30.media.tumblr.com/tumblr_lqghhyjXIC1qbbgjto1_400.png
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [width] => 250
+                                                            [height] => 259
+                                                            [url] => http://28.media.tumblr.com/tumblr_lqghhyjXIC1qbbgjto1_250.png
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [width] => 100
+                                                            [height] => 103
+                                                            [url] => http://24.media.tumblr.com/tumblr_lqghhyjXIC1qbbgjto1_100.png
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [width] => 75
+                                                            [height] => 75
+                                                            [url] => http://25.media.tumblr.com/tumblr_lqghhyjXIC1qbbgjto1_75sq.png
+                                                        )
+
+                                                )
+
+                                            [original_size] => stdClass Object
+                                                (
+                                                    [width] => 401
+                                                    [height] => 415
+                                                    [url] => http://30.media.tumblr.com/tumblr_lqghhyjXIC1qbbgjto1_500.png
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [total_posts] => 322
+        )
+
+)

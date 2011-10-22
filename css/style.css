@@ -1,0 +1,43 @@
+body { 
+	margin: 50px 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 90%; 
+}
+
+p  { font-size: 0.8em; }
+h1 {
+	font-size: 220%;
+	padding-bottom: 6px;
+}
+
+/* GERARD'S CODE */
+#lists {
+	list-style-type: none;
+}
+
+p {
+	text-align: left;
+}
+ul {
+	text-align: left;
+}
+li {
+	text-align: left;
+}
+#date {
+	float: right;
+	font-size: 60%;
+	font-style: italic;
+}
+
+#redirect {
+	font-style: none;
+	font-size: 150%;
+	font-color: black;
+}
+
+a:link {
+	text-decoration: none;
+}
