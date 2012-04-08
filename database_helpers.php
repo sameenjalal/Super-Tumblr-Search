@@ -1,16 +1,12 @@
 <?php
 
-define('DB_USER', 'samjalal');
-define('DB_PASS', 'akash123');
-define('DB_HOST', 'mysql.sameenjalal.com');
-define('DB_NAME', 'sameen_test');
 
 /**
  * Connect to the database defined in the macros above.
  */
 function db_connect()
 {
-	mysql_connect(DB_HOST, DB_USER, DB_PASS);		
+	mysql_connect(DB_HOST, DB_USER, DB_PASS);
 	mysql_select_db(DB_NAME);
 }
 
